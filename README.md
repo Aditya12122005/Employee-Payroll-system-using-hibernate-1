@@ -31,4 +31,8 @@ E:\untitled2\
         └── resources
             └── hibernate.cfg.xml
 
+<img width="1400" height="218" alt="image" src="https://github.com/user-attachments/assets/bbaf29b7-10f7-488a-80e7-5cd7f6ae93c3" />
+<img width="810" height="204" alt="image" src="https://github.com/user-attachments/assets/3778849f-ec85-4d32-9522-540cb90735cc" />
+
+
 
